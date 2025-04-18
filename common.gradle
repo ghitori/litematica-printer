@@ -150,6 +150,8 @@ String getQuiShulkerBox() {
         path = "build/libs/quickshulker-1.4.5-1.21.jar"
     } else if (mcVersion == 12104) {
         path = "build/libs/quickshulker-1.4.5-1.21.4.jar"
+    } else if (mcVersion == 12105) {
+        path = "build/libs/quickshulker-1.4.5-1.21.5.jar"
     }
     return path;
 }
